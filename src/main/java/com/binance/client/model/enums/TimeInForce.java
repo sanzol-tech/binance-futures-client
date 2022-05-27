@@ -2,5 +2,5 @@ package com.binance.client.model.enums;
 
 public enum TimeInForce
 {
-	GTC, IOC, FOK
+	GTC, IOC, FOK, GTE_GTC
 }
